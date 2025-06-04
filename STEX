@@ -1,0 +1,22 @@
+<!-- Save this as index.html -->
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Rive Animation</title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+    }
+    iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
+  </style>
+</head>
+<body>
+  <iframe src="https://rive.app/s/6qP_B-ScLkWOqVfjGa_lAA/embed?runtime=rive-renderer" allowfullscreen></iframe>
+</body>
+</html>
